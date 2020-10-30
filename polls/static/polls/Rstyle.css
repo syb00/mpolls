@@ -1,0 +1,8 @@
+body {
+    background: white url("images/rogo.png") no-repeat;
+    background-position: right top;
+}
+
+li a {
+    color: green;
+}
